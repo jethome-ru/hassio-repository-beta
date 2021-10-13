@@ -1,11 +1,5 @@
-# Initial public release.
+## What’s changed
 
-## Supported devices:
+## 🐛 Bug fixes
 
-### [JetHome JetHub D1](http://jethome.ru/jethub-d1) (Basic version with 3 relays, 4 inputs and 1-wire).
- 
-**Exposed peripheral:**
-
-- 3 relays
-- 4 inputs
-- internal stat LED (green/red)
+- Fix relays and LEDs inconsistency @Hacker-CB (#5)
